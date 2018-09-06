@@ -1,0 +1,1 @@
+This repo is codes for geometry guided feature aggregation for video face recognition. [we will release the codes as soon as possible]
